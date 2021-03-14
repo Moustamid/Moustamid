@@ -1,8 +1,5 @@
 ### Hi there 👋
 
- 
-
-
 - 🔭 I’m currently working on a Freelance MERN E-commerce Application for a Mexican-Marocain argan oil Company 
 - 🌱 I’m currently learning more about .Net Core 
 - 👯 I’m looking to collaborate on open source 
@@ -36,6 +33,10 @@
 <a href="https://heroku.com" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" /> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/postman-E95723?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="postman" /> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/linux-E79A00?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /> </a>
 
 
-
+<h3>Where To Find Me:</h3>
+<p><a href="https://g</h3>
+<p><a href="https://github.com/Moustamid" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Karim98880272" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/karim-moustamid/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
