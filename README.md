@@ -8,5 +8,5 @@
 - 💬 Ask me about C# , React , Nodejs & in general, about JavaScript ecosystem.
 - 📫 How to reach me: **moustamid.teck@gmail.com** 
 - ⚡ Fun fact: i am working on a npm playgroud package similar to Codepen ,  that will enable developers to take notes , run they code , import  library's and packages directly from npm , persiste and shaire they code directly on the browser .
-- - 🍽 Things on my plate for later - GraphQL, Docker , NestJs , Microservices with NodeJs .
+- 🍽 Things on my plate for later - GraphQL, Docker , NestJs , Microservices with NodeJs .
 -->
