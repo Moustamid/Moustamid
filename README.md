@@ -1,9 +1,6 @@
 ### Hi there 👋 I'm Karim Moustamid
 
-<div style="
-    display: flex;
-    justify-content: center;
-"
+<div style="display: flex;justify-content: center;"
  >
  <img src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" alt="gif" height="400" width="500">
  </div>
