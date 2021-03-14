@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Karim Moustamid
 
-<div style="text-align:center;" style="
+<div style="
     display: flex;
     align-items: center;
     justify-content: center;"
