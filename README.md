@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-  
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="gif" height="30" width="40" />
+ 
 
 
 - 🔭 I’m currently working on a Freelance MERN E-commerce Application for a Mexican-Marocain argan oil Company 
@@ -39,4 +38,4 @@
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="postman" /> </a>
 
 
-
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="gif" height="150" width="150" />
