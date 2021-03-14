@@ -38,4 +38,4 @@
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="postman" /> </a>
 
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="gif" height="150" width="150" />
+<div><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="gif" height="200" width="200" /></div>
