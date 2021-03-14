@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="gif" />
 
 - 🔭 I’m currently working on a Freelance MERN E-commerce Application for a Mexican-Marocain argan oil Company 
 - 🌱 I’m currently learning more about .Net Core 
