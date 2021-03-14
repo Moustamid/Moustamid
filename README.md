@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Karim Moustamid
 
-<h3>I am computer science student at the University of UTEL Mexico City , and a Freelance web develloper</h3>
+<h3>I am a computer science student at the University of UTEL Mexico City , and a Freelance web develloper</h3>
 
 - 🔭 I’m currently working on a Freelance MERN E-commerce Application for a Mexican-Marocain argan oil Company
 - 🌱 I’m currently learning more about .Net Core .
