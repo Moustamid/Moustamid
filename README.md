@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Karim Moustamid
 
+<img src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" />
+
 <h3>I am a computer science student at the University of UTEL Mexico City , and a Freelance web develloper</h3>
 
 - 🔭 I’m currently working on a Freelance MERN E-commerce Application for a Mexican-Marocain argan oil Company
