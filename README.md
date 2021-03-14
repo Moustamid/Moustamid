@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Karim Moustamid
 
-<div style="text-align:center;" width="100%"><img src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" alt="gif" height="400" width="500"></div>
+<div style="text-align:center;" margin="0 auto" ><img src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" alt="gif" height="400" width="500"></div>
 
 <h3>I am a computer science student at the University of UTEL Mexico City , and a Freelance web develloper</h3>
 
