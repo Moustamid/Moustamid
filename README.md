@@ -1,15 +1,14 @@
 ### Hi there 👋
 
+![alt text](img.fig)
 
-
-- 🔭 I’m currently working on a Freelance MERN E-commerce Application for a Mexican-Marocain argan oil Company 
-- 🌱 I’m currently learning more about .Net Core 
-- 👯 I’m looking to collaborate on open source 
+- 🔭 I’m currently working on a Freelance MERN E-commerce Application for a Mexican-Marocain argan oil Company
+- 🌱 I’m currently learning more about .Net Core
+- 👯 I’m looking to collaborate on open source
 - 💬 Ask me about C# , React , Nodejs & in general, about JavaScript ecosystem.
-- 📫 How to reach me: **moustamid.teck@gmail.com** 
-- ⚡ Fun fact: i am working on a npm playgroud package similar to Codepen ,  that will enable developers to take notes , run they code , import  library's and packages directly from npm , persiste and shaire they code directly on the browser .
+- 📫 How to reach me: **moustamid.teck@gmail.com**
+- ⚡ Fun fact: i am working on a npm playgroud package similar to Codepen , that will enable developers to take notes , run they code , import library's and packages directly from npm , persiste and shaire they code directly on the browser .
 - 🍽 Things on my plate for later - GraphQL, Docker , NestJs , Microservices with NodeJs .
-
 
 <h3 align="left">Languages & Tools:</h3>
 
@@ -35,8 +34,6 @@
 <a href="https://heroku.com" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" /> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/postman-E95723?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="postman" /> </a>
-
-
 
 <h3>Where To Find Me:</h3>
 <p><a href="https://g</h3>
