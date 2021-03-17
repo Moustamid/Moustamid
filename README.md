@@ -7,7 +7,7 @@
  </p>
 
 - 🔭 I’m currently working on a Freelance MERN E-commerce Application for a Mexican-Marocain argan oil Company
-- 🌱 I’m currently learning more about .Net Core , Enhancing NodeJs applications Performance , Redis , CI/CD , AWS .
+- 🌱 I’m currently learning more about .Net Core , Enhancing NodeJs apps Performance , Redis , CI/CD , AWS .
 - 👯 I’m looking to collaborate on open source .
 - 💬 Ask me about C# , React , Nodejs & in general, about JavaScript ecosystem .
 - 📫 How to reach me: **moustamid.teck@gmail.com** .
